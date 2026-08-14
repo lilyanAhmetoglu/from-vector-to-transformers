@@ -1,0 +1,53 @@
+From Vectors to Transformers
+Copyright (c) 2026 Lilyan Aldimashki
+
+This work — the lesson text, the figures, and the figure-generating scripts —
+is licensed under the Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
+
+Full legal text:  https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+Human summary:    https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+
+YOU ARE FREE TO
+----------------
+  Share    — copy and redistribute the material in any medium or format.
+  Adapt    — remix, transform, and build upon the material.
+
+The licensor cannot revoke these freedoms as long as you follow the terms.
+
+
+UNDER THE FOLLOWING TERMS
+--------------------------
+  Attribution   — You must give appropriate credit, provide a link to this
+                  license, and indicate if changes were made. You may do so in
+                  any reasonable manner, but not in any way that suggests the
+                  licensor endorses you or your use.
+
+  NonCommercial — You may not use the material for commercial purposes.
+
+  ShareAlike    — If you remix, transform, or build upon the material, you must
+                  distribute your contributions under the same license as the
+                  original.
+
+  No additional restrictions — You may not apply legal terms or technological
+                  measures that legally restrict others from doing anything the
+                  license permits.
+
+
+NOTICES
+-------
+Translations and adaptations are explicitly welcome under the ShareAlike term.
+
+This is an independent educational work. It is not affiliated with, endorsed
+by, or sponsored by any research organisation whose published work is discussed
+within it.
+
+The research papers discussed throughout — including "Attention Is All You
+Need", the GPT-2 and GPT-3 papers, "Scaling Laws for Neural Language Models",
+InstructGPT and LLaMA — remain the work and property of their respective
+authors. They are described here as commentary, criticism and teaching. No part
+of those papers is reproduced.
+
+All 82 figures are original work, generated with matplotlib from the scripts
+included in this repository.

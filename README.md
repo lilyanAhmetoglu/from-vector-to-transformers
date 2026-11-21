@@ -6,6 +6,8 @@
 
 📘 **[Download the book (PDF, 202 pages)](From-Vectors-to-Transformers-final.pdf)**
 
+📗 **Volume Two (Lessons 42–70): [From Transformers to Papers](https://github.com/lilyanAhmetoglu/from-transformers-to-papers)**
+
 ---
 
 ## What this is
